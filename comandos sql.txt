@@ -1,0 +1,10 @@
+sintaxe SQL
+SELECT = SELECT * FROM "dados que quer trazer"
+
+INSERT = INSERT INTO "dados que quer por" e VALUES('joao',1990-01-20,1200)
+
+UPDATE = UPDATE "tabela de dados" SET campo da tabela=''WHERE idtabela = ''
+
+DELETE = DELETE FROM "tabela" WHERE campo = 'valor'
+
+JOIN = JOIN tbl ON outratbl.idtbl = tbl.idtbl
