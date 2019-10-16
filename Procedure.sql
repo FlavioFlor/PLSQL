@@ -17,6 +17,7 @@ BEGIN
       (
         contador.cod_cliente,
         contador.nome
+
       );
   END LOOP;
 END func;
